@@ -313,7 +313,7 @@ Two options for deploying this solution include:
 The easiest way to deploy this Azure Arm templates is to use the deploy button below:<br>
 
 **Full Stack**
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftsanghan%2Ff5-azure-arm-templates-v2%2Fv3.3.0.0%2Fexamples%2Ffailover%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftsanghan%2Ff5-azure-arm-templates-v2%2Fmain%2Fazuredeploy.json)
 
 **Existing Stack**
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftsanghan%2Ff5-azure-arm-templates-v2%2Fv3.3.0.0%2Fexamples%2Ffailover%2Fazuredeploy-existing-network.json)
